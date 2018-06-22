@@ -1,0 +1,14 @@
+uuid: 740945da-4164-4813-95ba-603bc56f1f34
+name: 'deploiement (local)'
+mail: guy.cesaro@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
