@@ -45,4 +45,4 @@ web.config
 modules/contrib
 themes/contrib
 profiles/contrib
-*.txt
+#*.txt
